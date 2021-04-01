@@ -8,6 +8,8 @@ Clément, Sarah, Pierre-Alexandre, Virgile, Joséphine, Paul, Apolline, Juan Ala
 
 - Tour de table des participants et de leur expérience 
 - Présentation du projet : réaliser, à partir de l'ensemble des ressources disponibles, une formation destinée tant à des profils généralistes que à des data Scientists 
+- Présentation du référentiel d'évaluation et de ses 6 sections
+- Présentation des prochaines étapes (voir ci-dessous)
 
 ## Logistique pour la saison :
 
