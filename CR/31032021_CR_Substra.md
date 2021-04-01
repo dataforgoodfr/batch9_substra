@@ -4,7 +4,7 @@
 
 Clément, Sarah, Pierre-Alexandre, Virgile, Joséphine, Paul, Apolline, Juan Alandette, Clémentine 
 
-# Compte-rendu 
+## Compte-rendu 
 
 - Tour de table des participants et de leur expérience 
 - Présentation du projet : réaliser, à partir de l'ensemble des ressources disponibles, une formation destinée tant à des profils généralistes que à des data Scientists 
