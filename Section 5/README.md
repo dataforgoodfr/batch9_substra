@@ -1,3 +1,5 @@
+* Découvrez et approfondissez les notions d'explicabilité et interprétabilité à travers l'utilisation de plusieurs outils
+
 Objectif : Montrer via un outil et un cas d’usage (fournir dataset) comment on peut expliquer à des parties prenantes et justifier les résultats obtenus
 Forme : Outil ? (shap, shapash, AI 360..)
 
